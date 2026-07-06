@@ -5,10 +5,14 @@ Welcome to my GitHub, a space where I’m learning, building, breaking things, a
 ---
 
 ## 🌸 About Me
-- 🎓 Exploring coding, software engineering + cybersecurity  
-- 💻 Building skills through hands-on learning  
-- 🔍 Focused on progress, not perfection  
-- ⚡ Learning by doing (and occasionally breaking things… then fixing them)
+I’ve been self-learning for over 2 years while also studying:
+
+- 🎓BSc (Hons) CyberSecurity Open University part-time (2024 - 2028)
+- 🎓Code First Girls Data & Software Engineering Degree placement (16-weeks  March - July 2026)
+- 🎓Code First Girls +Masters CyberSecurity Degree (4-weeks  July - August 2026)
+  
+- 🔍 Exploring coding, software engineering + cybersecurity  
+- 💻 Building skills through self learning, assignments and online labs through - Codecademy, Hack the box and TryHackMe
 
 ---
 
