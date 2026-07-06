@@ -31,10 +31,15 @@ Welcome to my GitHub, a space where I’m learning, building, breaking things, a
 
 ---
 
-## 🎯 Goals
-- 💼 Build real-world projects I can actually show  
-- 🧠 Strengthen my software engineering + cybersecurity fundamentals   
-- 💜 Build a portfolio I’m genuinely proud of  
+##🎯 Career direction
+I’m working towards a role in:
+
+- CyberSecurity Engineering
+- Software Engineering
+
+The long-term career goal is:
+
+- DevSecOps 
 
 ---
 
