@@ -40,6 +40,5 @@ Welcome to my GitHub, a space where I’m learning, building, breaking things, a
 
 ## 💜 Fun Fact
 - I love pugs 🐶 and the gym 🏋️ 
-— good combination of softness and suffering 😄
 
 ---
