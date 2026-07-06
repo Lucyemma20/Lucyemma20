@@ -31,7 +31,7 @@ Welcome to my GitHub, a space where I’m learning, building, breaking things, a
 
 ---
 
-##🎯 Career direction
+## 🎯 Career direction
 I’m working towards a role in:
 
 - CyberSecurity Engineering
