@@ -5,7 +5,7 @@ Welcome to my GitHub, a space where I’m learning, building, breaking things, a
 ---
 
 ## 🌸 About Me
-- 🎓 Student exploring coding, software engineering + cybersecurity  
+- 🎓 Exploring coding, software engineering + cybersecurity  
 - 💻 Building real skills through hands-on learning  
 - 🔍 Focused on progress, not perfection  
 - ⚡ Learning by doing (and occasionally breaking things… then fixing them)
@@ -20,14 +20,6 @@ Welcome to my GitHub, a space where I’m learning, building, breaking things, a
 - 🗄️ SQL 
 - 🌐 HTML & CSS — basic web pages and frontend practice  
 - 🔍 Nmap — exploring cybersecurity and network scanning tools  
-
----
-
-## 🛠️ Tools I Use
-- 💻 Pycharm 
-- 🐙 Git & GitHub  
-- 🐧 Linux environments  
-- 🐍 Python  
 
 ---
 
