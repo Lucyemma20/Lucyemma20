@@ -12,34 +12,38 @@ Welcome to my GitHub, a space where I’m learning, building, breaking things, a
 
 ---
 
-## 🧠 What I'm Learning
-- 🐍 Python — building problem-solving skills  
-- 💻 Software Engineering fundamentals — writing cleaner, structured code  
-- 🔧 Git & GitHub — version control and collaboration  
-- 🐧 Linux — command line basics and systems understanding   
+## 🛠️ Tools I Use
+- 💻 PyCharm — main IDE for Python
+- 🐍 Python 
+- 🐧 Linux — terminal work, navigation, and system practice  
+- 🐙 Git & GitHub — version control and project tracking  
+- 🗄️ SQL 
+- 🌐 HTML & CSS — basic web pages and frontend practice  
+- 🔍 Nmap — exploring cybersecurity and network scanning tools  
 
 ---
 
 ## 🛠️ Tools I Use
-- 💻 VS Code  
+- 💻 Pycharm 
 - 🐙 Git & GitHub  
 - 🐧 Linux environments  
 - 🐍 Python  
 
 ---
 
-## 📚 Current Focus
-- 🧪 Small Python projects  
-- 📓 Linux practice + notes  
-- 📁 Building my GitHub portfolio step by step  
-- 🔁 Staying consistent (even when it’s annoying)
+## 🚀 Current Focus
+- 🧩 Building software engineering projects (APIs + real-world applications)  
+- 🔌 Developing backend systems using Python  
+- 🗄️ Working with SQL  
+- 🌐 HTML & CSS  
+- 🔍 Exploring cybersecurity projects using tools like Nmap  
 
 ---
 
 ## 🎯 Goals
 - 💼 Build real-world projects I can actually show  
-- 🧠 Strengthen coding + cybersecurity fundamentals  
-- 🚀 Become confident in software development basics  
+- 🧠 Strengthen my software engineering + cybersecurity fundamentals  
+- 🚀 Become confident in software development  
 - 💜 Build a portfolio I’m genuinely proud of  
 
 ---
